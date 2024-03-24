@@ -11,8 +11,8 @@ My journey into the tech space has sparked a passion for cybersecurity, and I am
 
 | Skill                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Active Directory Lab</a>|
+| SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Active Directory and Detection Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Active Directory and Detection Home Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -45,5 +45,5 @@ My journey into the tech space has sparked a passion for cybersecurity, and I am
 </div>
 
 ## Completed Labs
-- Active Directory Home Lab
+- Active Directory and Detection Home Lab
 - SOC Automation Lab
