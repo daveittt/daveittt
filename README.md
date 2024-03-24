@@ -9,7 +9,7 @@ My journey into the tech space has sparked a passion for cybersecurity, and I am
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Active Directory Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Active Directory Lab</a>|
@@ -44,6 +44,6 @@ My journey into the tech space has sparked a passion for cybersecurity, and I am
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-FF0000?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-## Projects
-- Active Directory Project (Home Lab)
-- SOC Automation Lab/Project
+## Completed Labs
+- Active Directory Home Lab
+- SOC Automation Lab
