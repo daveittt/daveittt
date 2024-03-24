@@ -45,5 +45,5 @@ My journey into the tech space has sparked a passion for cybersecurity, and I am
 </div>
 
 ## Completed Labs
-- Active Directory and Detection Home Lab
+- <a href="https://github.com/daveittt/Active-Directory-and-Detection-Home-Lab/tree/main">Active Directory and Detection Home Lab</a>
 - SOC Automation Lab
